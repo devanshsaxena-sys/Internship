@@ -1,2 +1,1 @@
-# Internship
-This repository contains the questions practised during the internship.
+LEETCODE-https://leetcode.com/u/Devansh_Saxena/
